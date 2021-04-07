@@ -1,2 +1,2 @@
 # spotify-now-playing-widget
-#poop fart
+# poop fart
